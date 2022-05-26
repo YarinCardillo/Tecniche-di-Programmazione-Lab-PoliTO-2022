@@ -1,0 +1,3 @@
+C:/Users/yarca/iCloudDrive/PoliTo/Primo anno/Secondo semestre/Tecniche di programmazione/lab01/cmake-build-debug/CMakeFiles/lab01.dir
+C:/Users/yarca/iCloudDrive/PoliTo/Primo anno/Secondo semestre/Tecniche di programmazione/lab01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yarca/iCloudDrive/PoliTo/Primo anno/Secondo semestre/Tecniche di programmazione/lab01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/yarca/iCloudDrive/PoliTo/Primo anno/Secondo semestre/Tecniche di programmazione/lab01/main6.c
+stdio.h
+-
+

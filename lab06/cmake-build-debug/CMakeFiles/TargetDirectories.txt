@@ -1,0 +1,3 @@
+C:/Users/yarca/tecniche di programmazione - codice/lab06/cmake-build-debug/CMakeFiles/lab06.dir
+C:/Users/yarca/tecniche di programmazione - codice/lab06/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yarca/tecniche di programmazione - codice/lab06/cmake-build-debug/CMakeFiles/rebuild_cache.dir

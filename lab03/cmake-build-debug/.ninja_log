@@ -1,0 +1,13 @@
+# ninja log v5
+2	93	6700226256366858	CMakeFiles/lab03.dir/main1.c.obj	8acdac376a30cf21
+2	85	6701028284259483	CMakeFiles/lab03.dir/main3.c.obj	2f56fb4df446d4cd
+86	195	6701028285299482	lab03.exe	86ffeae929a6d66f
+2	98	6698150702832559	CMakeFiles/lab03.dir/main1BIS.c.obj	ceb1fe4e889d2aa2
+2	92	6698189592187657	CMakeFiles/lab03.dir/main1tris.c.obj	7c308a873cd9895b
+0	83	6698203741788421	CMakeFiles/lab03.dir/main1-4.c.obj	6f3bf9d2923c4c06
+2	94	6699004358570893	CMakeFiles/lab03.dir/mainalbi.c.obj	9ea83dc3048a07d4
+0	87	6700980398936399	CMakeFiles/lab03.dir/main2.c.obj	e6a800fbb0dcbfc9
+0	89	6701033661533600	CMakeFiles/lab03.dir/main2.c.obj	e6a800fbb0dcbfc9
+90	198	6701033662593547	lab03.exe	b75af782d942bfc3
+2	92	6701033736081651	CMakeFiles/lab03.dir/main2.c.obj	e6a800fbb0dcbfc9
+92	186	6701033737091723	lab03.exe	b75af782d942bfc3

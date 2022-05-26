@@ -1,0 +1,3 @@
+C:/Users/yarca/tecniche di programmazione - codice/eserciziClasse/cmake-build-debug/CMakeFiles/eserciziClasse.dir
+C:/Users/yarca/tecniche di programmazione - codice/eserciziClasse/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yarca/tecniche di programmazione - codice/eserciziClasse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
