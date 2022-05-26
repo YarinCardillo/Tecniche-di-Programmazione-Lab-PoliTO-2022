@@ -8,7 +8,7 @@ void stampaCodifica(void *p, int size, int bigEndian){
 
 int main(){
 
-	float af = 50.02;
+	float af = 50.34;
 	double ad = 244.04;
 	int bigEndian;
 
