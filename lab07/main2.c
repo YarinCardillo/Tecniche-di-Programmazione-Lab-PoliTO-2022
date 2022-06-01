@@ -14,15 +14,16 @@ void selectionSort(int A[], int N, int riga){
     for (int i = l; i < r; i++) {
         min = i;
         for (int j = i + 1; j <= r; j++) {
-            if (A[j] < A[min])
+            iterazioniInterno++;
+            if (A[j] < A[min]) {
                 min = j;
-            if (min != i) {
-                temp = A[i];
-                A[i] = A[min];
-                A[min] = temp;
-                scambi++;
-                iterazioniInterno++;
             }
+        }
+        if (min != i) {
+            temp = A[i];
+            A[i] = A[min];
+            A[min] = temp;
+            scambi++;
         }
         iterazioniEsterno++;
         fprintf(stdout, "IEst: %d, IInt: %d\n", iterazioniEsterno, iterazioniInterno);
