@@ -1,1 +1,1 @@
-Esercizi di laboratorio del corso di Tecniche di Programmazione (PoliTO)
+Esercizi di laboratorio del corso di Tecniche di Programmazione
