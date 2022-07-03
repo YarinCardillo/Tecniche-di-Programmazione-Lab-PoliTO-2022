@@ -1,0 +1,4 @@
+/var/lib/snapd/snap/clion/198/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/var/lib/snapd/snap/clion/198/bin/ninja/linux/ninja -G Ninja -S /home/yarin/Tecniche-di-Programmazione-Lab-PoliTO-2022/test -B /home/yarin/Tecniche-di-Programmazione-Lab-PoliTO-2022/test/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yarin/Tecniche-di-Programmazione-Lab-PoliTO-2022/test/cmake-build-debug

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/lab04.dir/main1.c.o -o lab04 
