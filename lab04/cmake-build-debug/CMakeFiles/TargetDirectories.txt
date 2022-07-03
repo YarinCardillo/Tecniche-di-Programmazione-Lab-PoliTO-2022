@@ -1,3 +1,3 @@
-C:/Users/yarca/tecniche di programmazione - codice/lab04/cmake-build-debug/CMakeFiles/lab04.dir
-C:/Users/yarca/tecniche di programmazione - codice/lab04/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/yarca/tecniche di programmazione - codice/lab04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yarin/Tecniche-di-Programmazione-Lab-PoliTO-2022/lab04/cmake-build-debug/CMakeFiles/lab04.dir
+/home/yarin/Tecniche-di-Programmazione-Lab-PoliTO-2022/lab04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yarin/Tecniche-di-Programmazione-Lab-PoliTO-2022/lab04/cmake-build-debug/CMakeFiles/rebuild_cache.dir

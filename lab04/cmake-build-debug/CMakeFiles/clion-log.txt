@@ -1,10 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2020.3.1/bin/ninja/win/ninja.exe" -G Ninja -S "C:\Users\yarca\tecniche di programmazione - codice\lab04" -B "C:\Users\yarca\tecniche di programmazione - codice\lab04\cmake-build-debug"
--- The C compiler identification is GNU 8.1.0
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe - skipped
--- Detecting C compile features
--- Detecting C compile features - done
+/var/lib/snapd/snap/clion/198/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/yarin/Tecniche-di-Programmazione-Lab-PoliTO-2022/lab04 -B /home/yarin/Tecniche-di-Programmazione-Lab-PoliTO-2022/lab04/cmake-build-debug
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/yarca/tecniche di programmazione - codice/lab04/cmake-build-debug
+-- Build files have been written to: /home/yarin/Tecniche-di-Programmazione-Lab-PoliTO-2022/lab04/cmake-build-debug
