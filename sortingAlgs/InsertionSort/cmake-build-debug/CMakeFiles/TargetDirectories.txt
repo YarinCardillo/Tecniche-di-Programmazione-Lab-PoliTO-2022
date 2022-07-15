@@ -1,0 +1,3 @@
+C:/Users/yarca/tecniche di programmazione - codice/sortingAlgs/InsertionSort/cmake-build-debug/CMakeFiles/InsertionSort.dir
+C:/Users/yarca/tecniche di programmazione - codice/sortingAlgs/InsertionSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yarca/tecniche di programmazione - codice/sortingAlgs/InsertionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
