@@ -1,0 +1,5 @@
+# ninja log v5
+4	255	6824689344011457	build.ninja	a4ec4b1c43902d
+2	60	6824537479503551	CMakeFiles/preparazioneEsame.dir/main1lab2.c.obj	4d5bf964c01911a8
+59	136	6824678395305881	preparazioneEsame.exe	2f42acfa1c5486fe
+2	59	6824678394565703	CMakeFiles/preparazioneEsame.dir/main2lab2.c.obj	372e8e5071e62731
