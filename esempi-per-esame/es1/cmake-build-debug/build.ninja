@@ -49,8 +49,8 @@ cmake_ninja_workdir = /home/yarin/PoliTo/Tecniche-di-Programmazione-Lab-PoliTO-2
 
 build cmake_object_order_depends_target_es1: phony || CMakeFiles/es1.dir
 
-build CMakeFiles/es1.dir/es5.c.o: C_COMPILER__es1_Debug /home/yarin/PoliTo/Tecniche-di-Programmazione-Lab-PoliTO-2022/esempi-per-esame/es1/es5.c || cmake_object_order_depends_target_es1
-  DEP_FILE = CMakeFiles/es1.dir/es5.c.o.d
+build CMakeFiles/es1.dir/es6.c.o: C_COMPILER__es1_Debug /home/yarin/PoliTo/Tecniche-di-Programmazione-Lab-PoliTO-2022/esempi-per-esame/es1/es6.c || cmake_object_order_depends_target_es1
+  DEP_FILE = CMakeFiles/es1.dir/es6.c.o.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles/es1.dir
   OBJECT_FILE_DIR = CMakeFiles/es1.dir
@@ -63,7 +63,7 @@ build CMakeFiles/es1.dir/es5.c.o: C_COMPILER__es1_Debug /home/yarin/PoliTo/Tecni
 #############################################
 # Link the executable es1
 
-build es1: C_EXECUTABLE_LINKER__es1_Debug CMakeFiles/es1.dir/es5.c.o
+build es1: C_EXECUTABLE_LINKER__es1_Debug CMakeFiles/es1.dir/es6.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/es1.dir
   POST_BUILD = :
