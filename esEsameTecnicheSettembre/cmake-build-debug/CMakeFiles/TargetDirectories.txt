@@ -1,0 +1,3 @@
+C:/Users/yarca/esEsameTecnicheSettembre/cmake-build-debug/CMakeFiles/esEsameTecnicheSettembre.dir
+C:/Users/yarca/esEsameTecnicheSettembre/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yarca/esEsameTecnicheSettembre/cmake-build-debug/CMakeFiles/rebuild_cache.dir
