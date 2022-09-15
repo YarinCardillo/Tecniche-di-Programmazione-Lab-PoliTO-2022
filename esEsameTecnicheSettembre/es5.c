@@ -4,8 +4,9 @@
 char* findSequence(char s[], char ch, int n);
 
 int main() {
-    char* p1 = findSequence("ciccioPasticcio", 'c', 3);
-    fprintf(stdout, "%s", p1);
+    char* p1 = findSequence("ciccioPasticcio", 'c', 2);
+    // test per il puntatore
+    fprintf(stdout, "%s\n", p1);
     return 0;
 }
 

@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "esEsameTecnicheSettembre::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-esEsameTecnicheSettembre-Debug-c03f226495fa97816cbc.json",
+					"jsonFile" : "target-esEsameTecnicheSettembre-Debug-dcfd10f6ff182c44b500.json",
 					"name" : "esEsameTecnicheSettembre",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/yarca/esEsameTecnicheSettembre/cmake-build-debug",
-		"source" : "C:/Users/yarca/esEsameTecnicheSettembre"
+		"build" : "C:/Users/yarca/tecniche di programmazione - codice/esEsameTecnicheSettembre/cmake-build-debug",
+		"source" : "C:/Users/yarca/tecniche di programmazione - codice/esEsameTecnicheSettembre"
 	},
 	"version" : 
 	{

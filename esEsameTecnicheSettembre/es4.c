@@ -1,5 +1,7 @@
 #include "stdio.h"
+
 void printDate(char *date);
+
 int main(){
     printDate("10-05-2002");
     return 0;
@@ -7,6 +9,7 @@ int main(){
 
 void printDate(char *date){
     int day, month, year;
+
     if(sscanf(date, "%d-%d-%d", &day, &month, &year) != 3){
         fprintf(stdout, "Format error\n");
         return;
